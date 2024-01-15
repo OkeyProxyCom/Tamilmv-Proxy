@@ -47,12 +47,15 @@ Finally, while proxy sites can be beneficial, they usually come with a risk of m
 Here's a step-by-step guide on how to do it:
 1.Choose a Proxy Site: The first step is to choose a Tamilmv proxy site.
 2.Enter the Proxy Site: Once you've chosen a proxy site, just simply enter the URL into your web browser. This will take you to a website that mirrors the content of the original Tamilmv site.
+
 ![image](https://github.com/OkeyProxyCom/Tamilmv-Proxy/assets/150340973/69f4e5d7-0b43-4185-bf11-27d43f19f66a)
 
 3.Navigate the Site: The proxy site should look and function much like the original Tamilmv site. You can navigate through the site, search for movies or TV shows you favor, then click on the content you want to stream or download.
+
 ![image](https://github.com/OkeyProxyCom/Tamilmv-Proxy/assets/150340973/aa4570b4-b6b3-438a-8612-2b1ea524c6c1)
 
 4.Stream or Download Content: Once you've found the content you want to watch, click on it. You'll be given the option to either stream the content directly from the site or download it to your device.
+
 ![image](https://github.com/OkeyProxyCom/Tamilmv-Proxy/assets/150340973/ef952b74-4f8b-4d6f-b27b-0669ef34ea6a)
 
 Remember, while these proxy sites can provide access to Tamilmv's content, they may not be legal in all regions. Always respect copyright laws and use legal methods to watch movies and TV shows. Always check the legality of such sites in your region before using them.
